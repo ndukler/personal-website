@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "RECOMB/ISCB"
+  organization_url = "https://www.iscb.org/"
+  title = "TOP 10 PAPERS READING LIST, 2016 - 2017"
+  url = "https://www.iscb.org/recomb-regsysgen2017-submissions/recomb-regsysgen2017-top-10-papers-reading-list"
+  date_start = "2017-11-19"
+  date_end = "2017-11-21"
+  description = "Paper voted one of top papers to read of 2016-2017 at RECOMB/ISCB conference"
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  title = "Machine Learning"
+  url = "https://www.coursera.org/learn/machine-learning/home/welcome"
+  date_start = "2019-02-01"
+  date_end = "2018-03-19"
+  description = """
+  Completed Andrew Ng's ML course (primarily for the purpose of using it as a guide for the ML course
+  I was going to co-teach shortly thereafter).
+  """
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
 +++
