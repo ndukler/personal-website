@@ -56,6 +56,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/noah-dukler-4aa0b154/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
