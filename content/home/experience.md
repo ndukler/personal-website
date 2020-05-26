@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Student"
+  company = "Weill Cornell Medicine/Cornell Universitry"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "NYC/Ithaca, NY"
+  date_start = "2013-07-01"
+  date_end = "2018-12-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Pursued a variety of projects in gene regulation and phylogenetics. Analyzed transcriptional
+  data to investigate a drug response. Developed models for several aspects of regulatory
+  elements including their function and evolution. Served as a long term mentor in a research
+  experience program high school students as part of partnerships with local schools.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Post-doctoral researcher"
+  company = "Cold Spring Harbor Laboratory"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Cold Spring Harbor, NY"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """Developed methods for inferring relationships between genomic context and
+  the evolution of cis-regulatory elements. Participated in a collaboration to standardize
+  population genetic simulation. Mentored graduate students and co-taught an on-site course on
+  machine learning."""
 
 +++
