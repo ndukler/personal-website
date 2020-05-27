@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Celastrol"
-summary: "Analysis of nascent RNA sequencing data to detect changes in transcription levels within in minutesto distinguish primary from secondary responses to regulatory signals in a drug response"
+summary: "Analysis of nascent RNA sequencing data to detect changes in transcription levels within minutes to distinguish primary from secondary responses to regulatory signals in a drug response"
 authors: [Noah Dukler]
 tags: [analysis]
 categories: []
